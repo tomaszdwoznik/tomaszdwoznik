@@ -17,14 +17,3 @@
     <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,javascript,git,github,java,latex,linux,mysql" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Dashboard:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszdwoznik&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomaszdwoznik&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
