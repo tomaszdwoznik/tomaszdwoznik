@@ -14,6 +14,6 @@
 ### 🛠 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,javascript,ts,react,vite,git,github,java,latex,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,ts,react,vite,git,github,java,linux,mysql" />
   </a>
 </p>
