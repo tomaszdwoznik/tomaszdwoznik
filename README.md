@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tomasz! 🙌</h1>
 
 <p align="center">
-  🎓 <b>Computer Science Student</b> at Poznań University of Technology
+  <b>Computer Science Student</b> at Poznań University of Technology
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ---
 
-### 🛠 Tech Stack:
+### Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,ts,react,vite,git,github,java,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp,postgres,git,java,html,css,linux" />
   </a>
 </p>
